@@ -1,0 +1,4 @@
+import time as t
+while True:
+  print("I love femboys!!!")
+  t.sleep(1)
